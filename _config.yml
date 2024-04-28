@@ -1,3 +1,4 @@
 name: coursera-test
 theme: Cayman
-remote_theme: pages-themes/cayman@v0.2
+remote_theme: pages-themes/cayman@v0.2plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
